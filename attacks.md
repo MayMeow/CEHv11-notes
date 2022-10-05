@@ -331,3 +331,7 @@ _An attacker sends a SOAP message containing WS-Address information to a web ser
 Injecting malicious data into intercepted communications in the TCP session in cases where routing is disabled
 
 ---
+# "Rubber-hose" attack
+Extraction of cryptographic secrects through coercion or torture
+
+---
