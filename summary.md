@@ -16,11 +16,9 @@
 3|Network|
 2|Data Link|
 1|Physical|
-
-Layer 2: 
-- Sniffers operate here.
-Layer 6: 
-- PKI encrypts and decrypts the data here.
+ 
+- `Layer 2`: Sniffers operate here. 
+- `Layer 6`: PKI encrypts and decrypts the data here.
 
 ----
 ## CVSS
