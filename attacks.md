@@ -335,3 +335,7 @@ Injecting malicious data into intercepted communications in the TCP session in c
 Extraction of cryptographic secrects through coercion or torture
 
 ---
+# Session Splicing
+Splits the attack traffic into many packets such that no single packet triggers IDS. (IDS myst resseamble the packet stream to detect attack)
+
+---
