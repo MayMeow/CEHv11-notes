@@ -327,3 +327,7 @@ Scenario:
 _An attacker sends a SOAP message containing WS-Address information to a web service server. The `<ReplyTo>` element doesn't contain the address of the attacker but instead the web server client which the attacker chosen to receive the message._
 
 ---
+# Blind Hijacking
+Injecting malicious data into intercepted communications in the TCP session in cases where routing is disabled
+
+---
