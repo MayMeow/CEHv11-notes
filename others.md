@@ -85,6 +85,8 @@ The attacker created and configured multiple domains pointing to the same host t
 # Pharming vs Phishing
 - Pharming is a more advanced technique to get users' credentials by making effort to enter users into the website. It is an attempt to scam people one at a time via an email or instant message.
 - In Phishing, the attacker tries to find the sensitive information of users by the means of electronic communication illegally
+- Pharming scams are executed by misusing the DNS as the primary weapon
+- Phishing attacks use spoofed websites that seem legitimate to users.
 
 ---
 # XSS vs CSRF
