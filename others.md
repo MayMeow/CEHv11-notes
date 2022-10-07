@@ -80,3 +80,13 @@ A structure designed to verify and authenticate the identity of individuals with
 ---
 # Unspecified proxy activities
 The attacker created and configured multiple domains pointing to the same host to switch quickly between the domains and avoid detection.
+
+---
+# Pharming vs Phishing
+- Pharming is a more advanced technique to get users' credentials by making effort to enter users into the website. It is an attempt to scam people one at a time via an email or instant message.
+- In Phishing, the attacker tries to find the sensitive information of users by the means of electronic communication illegally
+
+---
+# XSS vs CSRF
+- Cross-site scripting (or XSS) allows an attacker to execute arbitrary JavaScript within the browser of a victim user.
+- Cross-site request forgery (or CSRF) allows an attacker to induce a victim user to perform actions that they do not intend to.
